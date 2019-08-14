@@ -5,7 +5,7 @@ products a MongoDB database and displays them. Users can select to display produ
 click on any product to get more information including pricing, reviews and rating. Users can select items and 
 add them to their shopping cart
 
-## Import Data smd
+## Import Data smd bern martes modi
 I have included a data folder in this repo. Inside that folder will be 2 folders called cart and item. These 2 folders contain a mongodump of the 2 collections that I use in this ecommerce demo. You can use the [import-data.sh](data/import-data.sh) script to import these 2 dumps to an ecommerce database, then you will have the same content that I have for this demo.
 
 ## Live Demonstration
